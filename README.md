@@ -19,8 +19,11 @@ This Power BI project provides an in-depth analysis of car sales and pricing dat
   * Dynamic tooltips showing brand-wise and fuel-type insights
 
 ---
-
-
+## Data Source 
+Dataset : 
+```
+https://www.kaggle.com/datasets/lepchenkov/usedcarscatalog
+```
 ## 🧰 Tools & Techniques
 
 * **Tool:** Microsoft Power BI
