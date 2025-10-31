@@ -20,14 +20,6 @@ This Power BI project provides an in-depth analysis of car sales and pricing dat
 
 ---
 
-## 🧠 Key Insights
-
-* Gasoline cars make up approximately **62%** of total listings.
-* Electric cars show the **highest price per kilometer driven**.
-* Car prices **decrease steadily** with manufacturing year.
-* Brands like **Skoda**, **Toyota**, and **BMW** have **higher average selling prices**.
-
----
 
 ## 🧰 Tools & Techniques
 
